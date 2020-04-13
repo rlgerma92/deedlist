@@ -1,3 +1,8 @@
+## 04/12/2020 ##
+
+-Retouching this project to add features that were left unfinished in original repo as well as improving styling. Hope to have it fully functional and scalable soon. 
+-Will also push changes to original master folder if wanted.
+
 # deedlist!
 
 The **deedlist** web application allows users to post a need or do a good deed.
